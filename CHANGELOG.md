@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.1](https://github.com/cre8ivejp/release-please/compare/v1.0.0...v1.0.1) (2022-09-23)
+
+
+### Documentation
+
+* test type docs ([e33b68d](https://github.com/cre8ivejp/release-please/commit/e33b68d8feeb082558c9e137919b08515cdf59b3))
+
+
+### Tests
+
+* changelog types ([ea49aca](https://github.com/cre8ivejp/release-please/commit/ea49aca30a7aea7cfeb737555e79808444dcf660))
+* changelog types again ([41c7cbd](https://github.com/cre8ivejp/release-please/commit/41c7cbd4225d97d00b2d0a517104532e1a083548))
+
 ## 1.0.0 (2022-09-23)
 
 
